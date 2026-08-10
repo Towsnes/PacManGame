@@ -1,6 +1,6 @@
 # 🎮 Pacman Game (BTL-Java)
 
-**Author:** Duong Quang Huy (@zenohuy)
+**Author:** Duong Quang Huy (@huydq06)
 
 A classic Pacman game developed in **Java** following the **MVC (Model-View-Controller)** architecture.  
 The game not only includes the core Pacman mechanics but also integrates a **user account management system** connected to a **MySQL database**.
